@@ -20,7 +20,7 @@
     table {
         margin: 20px auto;
         border-collapse: collapse;
-        width: 80%;
+        width: 100%;
         box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);
         border-radius: 8px;
         overflow: hidden;
@@ -53,8 +53,8 @@
     
     .state {
         display: inline-block;
-        width: 50px;
-        height: 50px;
+        width: 100px;
+        height: 100px;
         line-height: 50px;
         border-radius: 50%;
         background: linear-gradient(145deg, #00796b, #004d40);
